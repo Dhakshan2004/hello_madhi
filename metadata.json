@@ -1,0 +1,6 @@
+{
+  "name": "AI-Driven Smart Transportation & Autonomous Mobility",
+  "description": "Sense. Predict. Optimize. Respond. Intelligent Transportation System (ITS) prototype with traffic vision, predictive routing, emergency corridor clearance, and adaptive signal control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
